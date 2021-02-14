@@ -1,1 +1,1 @@
-# clock
+# IBM clock
