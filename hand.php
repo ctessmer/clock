@@ -1,5 +1,5 @@
 <?php
 
-echo 'hand';
+echo 'add hour hand';
 
 ?>
